@@ -1,6 +1,6 @@
 # Information-Retrieval-System
  
-        Ashwin Tamilselvan - at3103                                                 Niharika Purbey - np2544 
+        Ashwin Tamilselvan - at3103                                      Niharika Purbey - np2544 
 
 
 Bing Account Key:

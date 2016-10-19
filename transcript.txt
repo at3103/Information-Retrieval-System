@@ -1,0 +1,501 @@
+Ashwins-MacBook-Pro:ProjectI atamilse$ python3 main.py 'taj mahal' 0.9
+
+Parameters:
+Original Query      =  taj mahal
+Desired Precision   =  0.9
+Total no of results :  10
+Bing Search Results:
+
+ Result : 1
+
+Title: Taj Mahal - Wikipedia, the free encyclopedia
+URL: https://en.wikipedia.org/wiki/Taj_Mahal
+Summary: Inspiration. The Taj Mahal was commissioned by Shah Jahan in 1631, to be built in the memory of his wife Mumtaz Mahal, a Persian princess who died giving birth to ...
+Relevant (Y/N)?n
+
+ Result : 2
+
+Title: Welcome To Official WebSite of Taj Mahal-U.P.Tourism
+URL: http://tajmahal.gov.in/
+Summary: Official website by Department of Tourism, Government of Uttar Pradesh. Details about Taj Mahal, ticketing, tours, and tourist information.
+Relevant (Y/N)?n
+
+ Result : 3
+
+Title: Atlantic City New Jersey Casino Hotels | Trump Taj Mahal ...
+URL: http://www.trumptaj.com/
+Summary: Trump Taj Mahal will close and cease casino and hotel operations on Monday, October 10, 2016 at 5:59am. Please see below regarding your Trump One® account and the ...
+Relevant (Y/N)?n
+
+ Result : 4
+
+Title: The Taj Mahal - Facts & Summary - HISTORY.com
+URL: http://www.history.com/topics/taj-mahal
+Summary: Find out more about the history of The Taj Mahal, including videos, interesting articles, pictures, historical features and more. Get all the facts on HISTORY.com
+Relevant (Y/N)?n
+
+ Result : 5
+
+Title: Welcome To Official WebSite of Taj Mahal-U.P.Tourism
+URL: http://www.tajmahal.gov.in/picture_gallery.html
+Summary: Taj Mahal at Agra, India is one of the wonders of the world. Find information related to Taj Mahal travel and tourism in this article.
+Relevant (Y/N)?n
+
+ Result : 6
+
+Title: Trump Taj Mahal - Wikipedia, the free encyclopedia
+URL: https://en.wikipedia.org/wiki/Trump_Taj_Mahal
+Summary: The Trump Taj Mahal was a casino and hotel on the Boardwalk in Atlantic City, New Jersey, United States. The casino is owned by Trump Entertainment Resorts ...
+Relevant (Y/N)?n
+
+ Result : 7
+
+Title: Taj Mahal India
+URL: http://www.tajmahal.com/
+Summary: Taj Mahal, Taj Mahal history, taj mahal location, pictures, information, taj mahal tours, tickets and packages. Taj Mahal India
+Relevant (Y/N)?n
+
+ Result : 8
+
+Title: Taj Mahal — Free listening, videos, concerts, stats and ...
+URL: http://www.last.fm/music/Taj+Mahal
+Summary: Taj Mahal (born Henry Saint Clair Fredericks in New York City on May 17, 1942) is an American Grammy Award-winning blues musician who incorporates elements of world ...
+Relevant (Y/N)?y
+
+ Result : 9
+
+Title: Taj Mahal - Best Restaurant & Dining | Lancaster PA | Taj ...
+URL: http://www.tajlancaster.com/
+Summary: Enjoy Indian cuisine in all its variety. Taj Mahal is consistently voted one of the best restaurants in Lancaster PA. Call 717-295-1434 for dining reservations!
+Relevant (Y/N)?
+
+ Result : 10
+
+Title: Taj Mahal | Biography, Albums, Streaming Links | AllMusic
+URL: http://www.allmusic.com/artist/taj-mahal-mn0000790604
+Summary: Find Taj Mahal bio, music, credits, awards, & streaming links on AllMusic - A guitarist and singer/songwriter who took an…
+Relevant (Y/N)?y
+
+Parameters:
+Original Query      =  taj mahal
+Desired Precision   =  0.9
+Current Precision   =  0.2
+Augmenting With     =   biography allmusic
+Modified Query =  taj mahal biography allmusic
+Total no of results :  10
+Bing Search Results:
+
+ Result : 1
+
+Title: Taj Mahal | Biography, Albums, Streaming Links | AllMusic
+URL: http://www.allmusic.com/artist/taj-mahal-mn0000790604
+Summary: Find Taj Mahal bio, music, credits, awards, & streaming links on AllMusic - A guitarist and singer/songwriter who took an…
+Relevant (Y/N)?y
+
+ Result : 2
+
+Title: Taj Mahal (musician) - Wikipedia, the free encyclopedia
+URL: https://en.wikipedia.org/wiki/Taj_Mahal_(musician)
+Summary: Henry Saint Clair Fredericks (born May 17, 1942), who uses the stage name Taj Mahal, is an American blues musician. He often incorporates elements of world music into ...
+Relevant (Y/N)?y
+
+ Result : 3
+
+Title: Taj Mahal | American musician | Britannica.com
+URL: https://www.britannica.com/biography/Taj-Mahal-American-musician
+Summary: Taj Mahal (the name came to him in a dream) grew up in a musical family. His father, of Jamaican background, was a jazz musician and arranger; his mother, a ...
+Relevant (Y/N)?y
+
+ Result : 4
+
+Title: Taj Mahal | Album Discography | AllMusic
+URL: http://www.allmusic.com/artist/taj-mahal-mn0000790604/discography
+Summary: Find Taj Mahal discography, albums and singles on AllMusic
+Relevant (Y/N)?y
+
+ Result : 5
+
+Title: Taj Mahal Travellers - Wikipedia, the free encyclopedia
+URL: https://en.wikipedia.org/wiki/Taj_Mahal_Travellers
+Summary: The Taj Mahal Travellers (also given variously as Taj Mahal Travelers, Taj-Mahal Travellers, ... Taj Mahal Travellers at AllMusic; Discography/Biography at SoundOhm;
+Relevant (Y/N)?y
+
+ Result : 6
+
+Title: Taj Mahal Discography at Discogs
+URL: https://www.discogs.com/artist/15158-Taj-Mahal
+Summary: Complete your Taj Mahal record collection. Discover Taj Mahal's full discography. Shop new and used Vinyl and CDs.
+Relevant (Y/N)?y
+
+ Result : 7
+
+Title: Like Never Before by Taj Mahal ::: Reviews
+URL: http://www.alltime-records.com/01-albums-0004/0004597.php
+Summary: There again, allmusic's biography of Taj Mahal points out that in later years he 'broadened his approach [from traditional acoustic blues], ...
+Relevant (Y/N)?y
+
+ Result : 8
+
+Title: Taj Mahal Facts, information, pictures | Encyclopedia.com ...
+URL: http://www.encyclopedia.com/topic/Taj_Mahal.aspx
+Summary: Taj Mahal has spent more than 40 years exploring the roots and branches of the blues. Grounded in the acoustic pre-war blues sound but drawn to the eclectic sounds of ...
+Relevant (Y/N)?y
+
+ Result : 9
+
+Title: Denny Freeman - Wikipedia, the free encyclopedia
+URL: https://en.wikipedia.org/wiki/Denny_Freeman
+Summary: Denny Freeman (born Dennis Edward Freeman, August 7, 1944, ... James Cotton, Taj Mahal, and Percy Sledge amongst others. Contents. Biography Edit ...
+Relevant (Y/N)?y
+
+ Result : 10
+
+Title: JOHN HALL Biography - johnhallmusic.com
+URL: http://www.johnhallmusic.com/john_hall_biography
+Summary: JOHN HALL guitar for Orleans, songs recorded by Janis Joplin, Bonnie Raitt, Doobies, Ronstadt, Skaggs, played w Taj Mahal Carly Simon Little Feat
+Relevant (Y/N)?y
+
+Parameters:
+Original Query      =  taj mahal
+Desired Precision   =  0.9
+Final Precision = 1.0
+Final Querry = taj mahal biography allmusic
+Desired precision reached!!
+
+
+
+
+
+
+Ashwins-MacBook-Pro:ProjectI atamilse$ python3 main.py 'brin' 0.9
+
+Parameters:
+Original Query      =  brin
+Desired Precision   =  0.9
+Total no of results :  10
+Bing Search Results:
+
+ Result : 1
+
+Title: Sergey Brin - Wikipedia, the free encyclopedia
+URL: https://en.wikipedia.org/wiki/Sergey_Brin
+Summary: Early life and education. Brin was born in Moscow in the Soviet Union, to Russian Jewish parents, Yevgenia and Mikhail Brin, both graduates of Moscow State ...
+Relevant (Y/N)?y
+
+ Result : 2
+
+Title: Brin - definition of brin by The Free Dictionary
+URL: http://www.thefreedictionary.com/Brin
+Summary: brin (brɪn) n. 1. (Animals) one of two filaments of silk combined by the silkworm to form a strand of silk. 2. one of the ribs of a fan
+Relevant (Y/N)?n
+
+ Result : 3
+
+Title: BRiN - Your Personal Business Advisor
+URL: http://brin.ai/
+Summary: Download BRiN today & get instant access to real-time support and hundreds of business education videos. Introducing BRiN - Your Personal Business Advisor.
+Relevant (Y/N)?n
+
+ Result : 4
+
+Title: Minnesota Glass, Minneapolis Glass - Brin Northwestern ...
+URL: http://bringlass.com/
+Summary: Founded in 1912, Brin Northwestern Glass has nearly a century of experience in residential and commercial glass and glazing in MN and WI.
+Relevant (Y/N)?n
+
+ Result : 5
+
+Title: How Your Brain Works | HowStuffWorks
+URL: http://science.howstuffworks.com/life/inside-the-mind/human-brain/brain.htm
+Summary: How Your Brain Works. by Craig Freudenrich, Ph.D. & Robynne Boyd Science | The Human Brain. NEXT PAGE NEXT . The human nervous system ...
+Relevant (Y/N)?n
+
+ Result : 6
+
+Title: BriN - YouTube
+URL: http://www.youtube.com/user/ImmJustBrian
+Summary: BriN Videos; Playlists; Channels; Discussion; About; Home Trending History Best of YouTube Music Sports Gaming Movies ...
+Relevant (Y/N)?n
+
+ Result : 7
+
+Title: Bring It! Full Episodes, Video & More | Lifetime
+URL: http://www.mylifetime.com/shows/bring-it
+Summary: Bring It! Email Updates. Get updates on new episodes, sneak peeks, and more! Please enter a valid email address. By submitting your information, you agree to receive ...
+Relevant (Y/N)?n
+
+ Result : 8
+
+Title: BrainPOP
+URL: https://www.brainpop.com/
+Summary: BrainPOP - Animated Educational Site for Kids - Science, Social Studies, English, Math, Arts & Music, Health, and Technology
+Relevant (Y/N)?n
+
+ Result : 9
+
+Title: Brain - Wikipedia, the free encyclopedia
+URL: https://en.wikipedia.org/wiki/Brain
+Summary: The brain is an organ that serves as the center of the nervous system in all vertebrate and most invertebrate animals. Only a few invertebrates such as sponges ...
+Relevant (Y/N)?n
+
+ Result : 10
+
+Title: Brain (Human Anatomy): Picture, Function, Parts ...
+URL: http://www.webmd.com/brain/picture-of-the-brain
+Summary: WebMD's Brain Anatomy Page provides a detailed diagram and definition of the brain including its function, parts, and conditions that affect it.
+Relevant (Y/N)?n
+
+Parameters:
+Original Query      =  brin
+Desired Precision   =  0.9
+Current Precision   =  0.1
+Augmenting With     =   born sergey
+Modified Query =  brin born sergey
+Total no of results :  10
+Bing Search Results:
+
+ Result : 1
+
+Title: Sergey Brin - Wikipedia, the free encyclopedia
+URL: https://en.wikipedia.org/wiki/Sergey_Brin
+Summary: Sergey Mikhaylovich Brin (Russian: Серге́й Миха́йлович Брин; born August 21, 1973) is a Russian-born American computer scientist, internet ...
+Relevant (Y/N)?y
+
+ Result : 2
+
+Title: Sergey Brin - Engineer, Inventor, Computer Programmer ...
+URL: http://www.biography.com/people/sergey-brin-12103333
+Summary: Sergey Brin is the man who created the world's most popular search engine, Google, with Larry Page in 1998. Learn more about his life and career at Biography.com.
+Relevant (Y/N)?y
+
+ Result : 3
+
+Title: Sergey Brin - Mashable
+URL: http://mashable.com/category/sergey-brin/
+Summary: Sergey Brin (born August 21, 1973) is a Soviet-born American computer scientist best known as the co-founder of Google, Inc., the world’s largest ...
+Relevant (Y/N)?y
+
+ Result : 4
+
+Title: Sergey Brin Net Worth - biography, quotes, wiki, assets ...
+URL: http://www.bornrich.com/sergey-brin.html
+Summary: Sergey Brin net worth is estimated at $29.7 billion according to Forbes as of 2015. A native of Russia, Sergey Brin was born in Moscow to Jewish parents, ...
+Relevant (Y/N)?y
+
+ Result : 5
+
+Title: Sergey Brin | American entrepreneur | Britannica.com
+URL: https://www.britannica.com/biography/Sergey-Brin
+Summary: American computer scientist and entrepreneur, who, with Sergey Brin, created the online search engine Google, one of the most successful sites on the Internet.
+Relevant (Y/N)?y
+
+ Result : 6
+
+Title: Sergey Brin - IMDb
+URL: http://www.imdb.com/name/nm1962236/
+Summary: Sergey Brin was born on August 21, 1973 in Moscow, RSFSR, USSR as Sergey Mikhaylovich Brin. He is an actor and producer, known for Google and the World Brain (2013 ...
+Relevant (Y/N)?y
+
+ Result : 7
+
+Title: Sergey Brin Biography: Success Story of Google Co-Founder
+URL: https://astrumpeople.com/sergey-brin-biography/
+Summary: Explore Sergey Brin biography. Enjoy reading an amazing success story and history of the Google co-founder.
+Relevant (Y/N)?y
+
+ Result : 8
+
+Title: Larry Page - Wikipedia, the free encyclopedia
+URL: https://en.wikipedia.org/wiki/Larry_Page
+Summary: Lawrence "Larry" Page (born March 26, 1973) is an American computer scientist and an Internet entrepreneur who co-founded Google Inc. with Sergey Brin in 1998.
+Relevant (Y/N)?y
+
+ Result : 9
+
+Title: The Story of Sergey Brin - Moment Magazine
+URL: http://www.momentmag.com/the-story-of-sergey-brin/
+Summary: The Story of Sergey Brin - It takes a bit of searching to find Sergey Brin’s office at the Googleplex. Tucked away in a corner of Building #43 on this sprawling ...
+Relevant (Y/N)?y
+
+ Result : 10
+
+Title: Larry Page and Sergey Brin - citelighter.com
+URL: https://www.citelighter.com/technology/technology/knowledgecards/larry-page-and-sergey-brin
+Summary: Larry Page and Sergey Brin. Lawrence "Larry" Page (born March 26, 1973, American computer scientist and internet entrepreneur) and Sergey Mikhaylovich Brin (born ...
+Relevant (Y/N)?y
+
+Parameters:
+Original Query      =  brin
+Desired Precision   =  0.9
+Final Precision = 1.0
+Final Querry = brin born sergey
+Desired precision reached!!
+
+
+
+
+
+Ashwins-MacBook-Pro:ProjectI atamilse$ python3 main.py 'musk' 0.9
+
+Parameters:
+Original Query      =  musk
+Desired Precision   =  0.9
+Total no of results :  10
+Bing Search Results:
+
+ Result : 1
+
+Title: Musk - Wikipedia, the free encyclopedia
+URL: https://en.wikipedia.org/wiki/Musk
+Summary: Musk is a class of aromatic substances commonly used as base notes in perfumery. They include glandular secretions from animals such as the musk deer, numerous plants ...
+Relevant (Y/N)?n
+
+ Result : 2
+
+Title: Elon Musk - CNBC
+URL: http://www.cnbc.com/elon-musk/
+Summary: Elon Musk, Tesla ... Wednesday, 28 Sep 2016 | 7:46 AM ET. It's a time where people are recognizing the value of science in our lives, says astrophysicist Neil ...
+Relevant (Y/N)?y
+
+ Result : 3
+
+Title: Musk | Define Musk at Dictionary.com
+URL: http://www.dictionary.com/browse/musk
+Summary: Musk definition, a substance secreted in a glandular sac under the skin of the abdomen of the male musk deer, having a strong odor, and used in perfumery. See more.
+Relevant (Y/N)?n
+
+ Result : 4
+
+Title: Elon Musk to Tesla employees: NEVER discount a car - Sep ...
+URL: http://money.cnn.com/2016/09/30/technology/tesla-elon-musk-discount/index.html
+Summary: Telsa CEO Elon Musk chided his salespeople for offering discounts to customers, violating the company's strict 'no negotiation, no discount' policy.
+Relevant (Y/N)?y
+
+ Result : 5
+
+Title: Elon Musk unveils ambitious Mars colonization plan | Fox News
+URL: http://www.foxnews.com/science/2016/09/28/elon-musk-unveils-ambitious-mars-colonization-plan.html
+Summary: On Tuesday, SpaceX CEO Elon Musk unveiled plans for a spacecraft and rocket project that intends to put intelligent life on Mars: human life. In a speech ...
+Relevant (Y/N)?y
+
+ Result : 6
+
+Title: Elon Musk’s Plan: Get Humans to Mars, and Beyond - The New ...
+URL: http://www.nytimes.com/2016/09/28/science/elon-musk-spacex-mars-exploration.html
+Summary: SpaceX, Elon Musk’s rocket company, released a video simulation of a journey to Mars. His plan is for spacecraft that would take 100 passengers to the ...
+Relevant (Y/N)?y
+
+ Result : 7
+
+Title: Elon Musk Outlines Plans for Missions to Mars - WSJ
+URL: http://www.wsj.com/articles/elon-musk-outlines-plans-for-manned-missions-to-mars-1475011627
+Summary: Elon Musk unveiled his contrarian vision of sending humans to Mars in roughly the next decade and ultimately setting up colonies there, relying on bold moves by ...
+Relevant (Y/N)?y
+
+ Result : 8
+
+Title: Musk | Definition of Musk by Merriam-Webster
+URL: http://www.merriam-webster.com/dictionary/musk
+Summary: :a strong-smelling material that is used in perfumes and is obtained from a gland of an Asian deer (musk deer) or is prepared artificially
+Relevant (Y/N)?n
+
+ Result : 9
+
+Title: Elon Musk - Wikipedia, the free encyclopedia
+URL: https://en.wikipedia.org/wiki/Elon_Musk
+Summary: Elon Reeve Musk (/ ˈ iː l ɒ n ˈ m ʌ s k /; born June 28, 1971) is a South African-born Canadian-American business magnate, investor, engineer and inventor.
+Relevant (Y/N)?y
+
+ Result : 10
+
+Title: Boeing CEO Vows to Beat Musk to Mars - Bloomberg
+URL: https://www.bloomberg.com/news/articles/2016-10-04/boeing-ceo-vows-to-beat-musk-to-mars-as-new-space-race-beckons
+Summary: Like Musk’s SpaceX, Boeing is focused on building out the commercial space sector near earth as spaceflight becomes more routine, while developing ...
+Relevant (Y/N)?y
+
+Parameters:
+Original Query      =  musk
+Desired Precision   =  0.9
+Current Precision   =  0.7
+Augmenting With     =   elon mars
+Modified Query =  musk elon mars
+Total no of results :  10
+Bing Search Results:
+
+ Result : 1
+
+Title: Boeing says it will overtake Elon Musk in race to Mars ...
+URL: http://money.cnn.com/2016/10/05/technology/boeing-mars-spacex-elon-musk/index.html
+Summary: Elon Musk wants to put humans on Mars by 2025, but the Boeing CEO says the first person to arrive on the planet will do so on a Boeing rocket.
+Relevant (Y/N)?y
+
+ Result : 2
+
+Title: Elon Musk’s Plan: Get Humans to Mars, and Beyond
+URL: http://www.nytimes.com/2016/09/28/science/elon-musk-spacex-mars-exploration.html
+Summary: SpaceX, Elon Musk’s rocket company, released a video simulation of a journey to Mars. His plan is for spacecraft that would take 100 passengers to the ...
+Relevant (Y/N)?y
+
+ Result : 3
+
+Title: Elon Musk unveils ambitious Mars colonization plan | Fox News
+URL: http://www.foxnews.com/science/2016/09/28/elon-musk-unveils-ambitious-mars-colonization-plan.html
+Summary: On Tuesday, SpaceX CEO Elon Musk unveiled plans for a spacecraft and rocket project that intends to put intelligent life on Mars: human life. In a speech ...
+Relevant (Y/N)?y
+
+ Result : 4
+
+Title: Elon Musk Expected to Detail SpaceX's Mars Ambitions
+URL: http://abcnews.go.com/Technology/elon-musk-expected-detail-spacexs-mars-ambitions/story?id=42361304
+Summary: Speculation is rife that SpaceX CEO Elon Musk is about to detail plans to take humans to Mars within a decade. The space, car and tech mogul is scheduled to speak ...
+Relevant (Y/N)?y
+
+ Result : 5
+
+Title: How Elon Musk Plans to Go to Mars - gizmodo.com
+URL: http://gizmodo.com/this-is-how-elon-musk-plans-to-build-a-city-on-mars-up-1787146547
+Summary: SpaceX plans to build a “self-sustaining city” on Mars, according to its founder Elon Musk. But, while we now know a lot more about how SpaceX plans to get to ...
+Relevant (Y/N)?y
+
+ Result : 6
+
+Title: Elon Musk Outlines Plans for Missions to Mars - WSJ
+URL: http://www.wsj.com/articles/elon-musk-outlines-plans-for-manned-missions-to-mars-1475011627
+Summary: Elon Musk unveiled his contrarian vision of sending humans to Mars in roughly the next decade and ultimately setting up colonies there, relying on bold moves by ...
+Relevant (Y/N)?y
+
+ Result : 7
+
+Title: Elon Musk - Wikipedia, the free encyclopedia
+URL: https://en.wikipedia.org/wiki/Elon_Musk
+Summary: Elon Reeve Musk June 28, 1971 (age 45) Pretoria, ... Elon Musk: 'I'm planning to retire to Mars', video interview for The Guardian, August 1, 2010;
+Relevant (Y/N)?y
+
+ Result : 8
+
+Title: SpaceX founder Elon Musk plans to get humans to Mars in ...
+URL: https://www.theguardian.com/technology/2016/sep/27/elon-musk-spacex-mars-colony
+Summary: SpaceX founder Elon Musk has outlined his highly ambitious vision for manned missions to Mars, which he said could begin as soon as 2022 – three years ...
+Relevant (Y/N)?y
+
+ Result : 9
+
+Title: SpaceX CEO Elon Musk unveils grandiose plan to colonize ...
+URL: http://www.cbsnews.com/news/spacex-elon-musk-unveils-grandiose-plan-to-colonize-mars/
+Summary: SpaceX founder Elon Musk says he plans to build huge new reusable rockets and spaceships to eventually ferry colonists to Mars
+Relevant (Y/N)?y
+
+ Result : 10
+
+Title: Mars | SpaceX
+URL: http://www.spacex.com/mars
+Summary: Mars. You are here. Home. Rockets & Spacecraft. Falcon 9; Falcon Heavy; Dragon; Updates. News; Gallery; Launch Manifest; About SpaceX. Company; Careers; Press; Shop ...
+Relevant (Y/N)?y
+
+Parameters:
+Original Query      =  musk
+Desired Precision   =  0.9
+Final Precision = 1.0
+Final Querry = musk elon mars
+Desired precision reached!!
+Ashwins-MacBook-Pro:ProjectI atamilse$ 
